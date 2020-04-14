@@ -1,0 +1,8 @@
+rootProject.name='Demo'
+include ':app'
+include ':login'
+include ':other'
+include ':router'
+include ':commonlib'
+include ':annotation'
+include ':annotation_complier'
